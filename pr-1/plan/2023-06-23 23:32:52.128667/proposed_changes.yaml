@@ -1,0 +1,15 @@
+IAMbic Summary
+
+Change Detection
+
+* 1 distinct actions.
+* 1 templates with changes.
+* 1 accounts affected.
+
+Exceptions
+* 0 exceptions were recorded.
+IAMbic Change Details
+Update
+└── /tmp/lambdaziknp2z4/.iambic/repos/resources/aws/github/iam_role_lambda.yaml
+    └── iambic-demo-site-org-account - (662889029265)
+        └── aws:iam:role // iambic_github_app_lambda_execution
